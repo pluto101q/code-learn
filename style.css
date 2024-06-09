@@ -130,3 +130,22 @@ nav ul li ul li a:hover{
 nav ul li ul li:hover{
 	border-color: var(--highlight);
 }
+/*code*/
+.orange{
+    color: orange;
+}
+.purple{
+    color: purple;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: limegreen;
+}
+.red{
+    color: red;
+}
+code{
+    color: black;
+  }
